@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4J3tEOHWuw/1cWR/wIWlxDhDjJBmOmFBi2IfaDVRK07nJt7BUpA9iahmKeAQb5akbbYxFa9OKepPRfc35sqzeQ==",
+  "success": true,
+  "projectFilePath": "D:\\Program Files (x86)\\VSCODE\\FS\\TutorialProject\\TutorialProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caleb\\.nuget\\packages\\fsharp.core\\6.0.7\\fsharp.core.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
